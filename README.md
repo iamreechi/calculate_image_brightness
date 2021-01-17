@@ -22,7 +22,9 @@ Certain regions of images will be selected to pickup the brightness level and fi
 >BTW you can place your own images inside the images directory or
 >modify the code a little bit to input your own images
 >just change the path to you local machine path where the images are in line 31
->and change line 32 to the path where your dark images are and line 33 to the path where bright images are  
+>put all images in a folder called images in your local machine 
+>and change line 32 to the path where your dark images should be copied to  are and line 33 to the path where over bright images should be copied to  
+>Images that are nither over bright or dark will remain in images folder
 
 ### Actual image High Resolution
 ![Original image](https://github.com/iamreechi/calculate_image_brightness/blob/master/images/low_size_bright.jpg)
@@ -105,6 +107,7 @@ for imagePath in paths.list_images('images'):
 Hope you enjoyed today's tutorial. Don't forget to star the repository.
 if you have any query, feel free to ask.
 
-Connect me at ``richiedatascincepath@gmail.com``
+
+Connect me at ``https://www.linkedin.com/in/richie-uchenna-akparuorji-85180111b/``
 
 
