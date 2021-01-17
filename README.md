@@ -79,7 +79,7 @@ print('>> Average Brightness: {}'.format(avg_maxval))
 
 Hope you enjoyed today's tutorial. Don't forget to star the repository.
 if you have any query, feel free to ask.
-Join me here at ``insta/the.nitin.rai``
+
 Connect me at ``richiedatascincepath@gmail.com``
 
 Credit: mneonizer
