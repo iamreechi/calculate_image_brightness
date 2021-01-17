@@ -31,10 +31,10 @@ Simply press esc Key to test on another image that i have provided
 >and change line 8 ``img = cv2.imread(imagePath)`` to ``img = cv2.imread('images/1.png')``
 
 ### Actual image High Resolution
-![Original image](https://github.com/imneonizer/How-to-find-if-an-image-is-bright-or-dark/blob/master/images/high_size_colored_bright.jpg)
+![Original image](hhttps://github.com/iamreechi/calculate_image_brightness/tree/master/images/low_size_bright.jpg)
 
 ### Actual image Low Resolution
-![Original image](https://github.com/imneonizer/How-to-find-if-an-image-is-bright-or-dark/blob/master/images/low_size_dark.jpg)
+![Original image](https://github.com/iamreechi/calculate_image_brightness/tree/master/dark_images/low_size_dark.jpg)
 
 ### Here is a little code snippet
 >to help you understand whats going on behind the scenes
@@ -86,4 +86,6 @@ print('>> Average Brightness: {}'.format(avg_maxval))
 Hope you enjoyed today's tutorial. Don't forget to star the repository.
 if you have any query, feel free to ask.
 Join me here at ``insta/the.nitin.rai``
-Connect me at ``mneonizer@gmail.com``
+Connect me at ``richiedatascincepath@gmail.com``
+
+Credit: mneonizer
