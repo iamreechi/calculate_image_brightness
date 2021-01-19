@@ -30,7 +30,7 @@ Certain regions of images will be selected to pickup the brightness level and fi
 ![Original image](https://github.com/iamreechi/calculate_image_brightness/blob/master/images/low_size_bright.jpg)
 
 ### Actual image Low Resolution
-![Original image](https://github.com/iamreechi/calculate_image_brightness/tree/master/dark_images/low_size_dark.jpg)
+![Original image](https://github.com/iamreechi/calculate_image_brightness/blob/master/images/low_size_dark.jpg)
 
 ### Here is a little code snippet
 >to help you understand whats going on behind the scenes
