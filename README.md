@@ -23,7 +23,7 @@ Certain regions of images will be selected to pickup the brightness level and fi
 >modify the code a little bit to input your own images
 >just change the path to you local machine path where the images are in line 31
 >put all images in a folder called images in your local machine 
->and change line 32 to the path where your dark images should be copied to  are and line 33 to the path where over bright images should be copied to  
+>and change line 32 to the path where your dark images should be kept  and line 33 is the path where over bright images should be kept 
 >Images that are nither over bright or dark will remain in images folder
 
 ### Actual image High Resolution
