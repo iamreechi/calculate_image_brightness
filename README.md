@@ -35,7 +35,7 @@ Certain regions of images will be selected to pickup the brightness level and fi
 ### Here is a little code snippet
 >to help you understand whats going on behind the scenes
 
-*to run the script you must be in the directory that has your images and type this in your CLI python over_bright.py --images*
+*to run the script you must be in the directory that has your images and type this in your CLI ``python over_bright.py`` --images*
 ```
 #------------------------Reading image--------------------------------------
 for imagePath in paths.list_images('images'):
